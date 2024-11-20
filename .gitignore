@@ -1,0 +1,7 @@
+# ホワイトリスト
+*
+!*/
+
+# Allowlist
+
+!.gitignore
