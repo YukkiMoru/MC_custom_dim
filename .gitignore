@@ -6,9 +6,9 @@
 
 !.gitignore
 
-!plugins\BetterStructures.jar
-!plugins\FastAsyncWorldEdit-Bukkit-2.12.1-SNAPSHOT-965.jar
-!plugins\multiverse-portals-4.2.3.jar
-!plugins\Terra-bukkit-6.5.1-BETA+0a952cff4-shaded.jar
-!plugins\worldguard-bukkit-7.0.12-dist.jar
+!plugins/BetterStructures.jar
+!plugins/FastAsyncWorldEdit-Bukkit-2.12.1-SNAPSHOT-965.jar
+!plugins/multiverse-portals-4.2.3.jar
+!plugins/Terra-bukkit-6.5.1-BETA+0a952cff4-shaded.jar
+!plugins/worldguard-bukkit-7.0.12-dist.jar
 
