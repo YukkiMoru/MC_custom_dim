@@ -1,0 +1,8 @@
+isEnabled: true
+structureType:
+- SURFACE
+validWorldEnvironments:
+- NORMAL
+- CUSTOM
+validBiomes: []
+treasureFilename: treasure_moru_overworld_surface.yml

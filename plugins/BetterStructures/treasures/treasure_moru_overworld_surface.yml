@@ -1,0 +1,10 @@
+isEnabled: true
+mean: 4.0
+standardDeviation: 3.0
+items:
+  common:
+    weight: 60
+    items:
+    - amount: 32-64
+      material: emerald
+      weight: 3.0
