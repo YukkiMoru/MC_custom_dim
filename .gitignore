@@ -1,23 +1,33 @@
-# ホワイトリスト
-# Ignore everything
-*
+# ブラックリスト
 
-# Allowlist
-!.gitignore
-!/paper-1.21.1-131.jar
-!/start.bat
-!/readme.md
-
-# Allow specific plugins and their directories
-!plugins/
-!plugins/BetterStructures.jar
-!plugins/FastAsyncWorldEdit-Bukkit-2.12.1-SNAPSHOT-965.jar
-!plugins/multiverse-portals-4.2.3.jar
-!plugins/Terra-bukkit-6.5.1-BETA+0a952cff4-shaded.jar
-!plugins/worldguard-bukkit-7.0.12-dist.jar
-!plugins/multiverse-core-4.3.14.jar
-
-# Allow specific file types and directories
-!plugins/BetterStructures/schematics/
-!plugins/BetterStructures/generators/
-!plugins/BetterStructures/treasures/
+cache/*
+config/*
+libraries/*
+logs/*
+plugins/.paper-remapped/*
+plugins/bStats/*
+plugins/FastAsyncWorldEdit/*
+plugins/multiverse-Core/*
+plugins/multiverse-Portals/*
+plugins/spark/*
+plugins/Terra/*
+plugins/WorldGuard/*
+plugins/version/*
+versions/*
+world/*
+world**/*
+.console_history
+banned-ips.json
+banned-players.json
+commands.yml
+config.yml
+bukkit.yml
+eula.txt
+help.yml
+ops.json
+permissions.yml
+spigot.yml
+usercache.json
+version_history.json
+wepif.yml
+whitelist.json
