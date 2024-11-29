@@ -1,5 +1,6 @@
 New worlds spawn structures: true
 Valid worlds:
+  world_t2: true
   world_t1: true
   world: true
   world_nether: true
