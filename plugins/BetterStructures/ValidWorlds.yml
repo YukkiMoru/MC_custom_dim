@@ -1,5 +1,9 @@
 New worlds spawn structures: true
 Valid worlds:
+  void_template: true
+  void_1: true
+  world_v1: true
+  world_v2: true
   world_t2: true
   world_t1: true
   world: true
